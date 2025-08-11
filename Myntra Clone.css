@@ -1,0 +1,125 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header{
+  height: 80px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-between;
+}
+.myntra_logo{
+  height: 55px;
+  width: 55px;
+  margin-top: 15px;
+  margin-left: 50px;
+}
+.action{
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.box1,.box2,.box3,.box4,.box5,.box6{
+  height: 50px;
+  margin-top: 28px;
+  border: transparent;
+  text-align: center;
+  align-items: center;
+  font-size: 13px;
+  font-weight: bolder;
+
+}
+.box7{
+  height: 50px;
+  margin-top: 25px;
+  border: transparent;
+  text-align: center;
+  align-items: center;
+  font-size: 13px;
+  font-weight: bolder;
+}
+.box1:hover{
+  border: transparent;
+  border-bottom: 3px solid red
+}
+.box2:hover{
+  border: transparent;
+  border-bottom: 3px solid rgb(238, 31, 231);
+}
+.box3:hover{
+  border: transparent;
+  border-bottom: 3px solid orangered;
+}
+.box4:hover{
+  border: transparent;
+  border-bottom: 3px solid darkorange;
+}
+.box5:hover{
+  border: transparent;
+  border-bottom: 3px solid rgb(58, 185, 128);
+}
+.box6:hover{
+  border: transparent;
+  border-bottom: 3px solid rgb(58, 185, 128);
+}
+.box7:hover{
+  border: transparent;
+  border-bottom: 3px solid rgb(250, 26, 175);;
+}
+a{
+  text-decoration: none;
+  color: #444;
+  
+}
+.search{
+  display: flex;
+}
+#search{
+  border: transparent;
+  width: 41px;
+  height: 40px;
+  background: rgb(245 245 246);
+  font-size: 18px;
+  margin-top: 18px;
+  margin-left: 100px;
+}
+input{
+  border: transparent;
+  height: 40px;
+  width: 325px;
+  background: rgb(245 245 246);
+  margin-top: 18px;
+}
+.function{
+  display: flex;
+  gap: 30px;
+}
+.function a{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: #777;
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 20px; 
+}
+main{
+  background-color: rgba(245 245 246);
+  width: 100%;
+  padding: 25px;
+}
+.offer{
+  height: 97px;
+  width: 1249px;
+  display: block;
+  margin: auto;
+}  
+.section{
+  height: 370px;
+  width: 1250px;
+  display: block;
+  margin: 7px auto;
+}
