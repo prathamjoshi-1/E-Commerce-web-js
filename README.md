@@ -1,4 +1,4 @@
-hvvggvhgb# 🛍️ E-Commerce Web JS  
+ghvvggvhgb# 🛍️ E-Commerce Web JS  
 
 A modern, responsive **E-commerce website** built with **HTML**, **CSS**, and **JavaScript**. 🚀  
 This project focuses on delivering a smooth shopping experience with a clean UI and interactive features.  
